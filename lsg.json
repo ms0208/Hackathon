@@ -1,0 +1,101 @@
+[
+    {
+       S_no: 1,
+       name: "KL Rahul",
+       category: "Batsman",
+       total Runs: 274,
+       wickets:0,
+       average:34,
+       rating:8.4
+    },
+    {
+          S_no: 2,
+          name: "Kyle Mayers",
+          category: "Batsman",
+          total Runs: 311,
+          wickets:0,
+          average:31,
+          rating:9.0
+    },
+    {
+        S_no: 3,
+        name: "Deepak Hooda",
+        category: "All rounder",
+        total Runs: 53,
+        wickets:0,
+        average:7,
+        rating:7.1
+    },
+    {
+        S_no: 4,
+        name: "Krunal Pandya",
+        category: "All rounder",
+        total Runs: 122,
+        wickets:6,
+        average:18,
+        rating:8.0
+  },
+{
+    S_no: 5,
+    name: "Nicolas Pooran",
+    category: "Wicket keeper",
+    total Runs: 245,
+    wickets:0,
+    average:27,
+    rating:8.9
+},
+{
+    S_no: 6,
+    name: "Marcus Stoinis",
+    category: "All-Rounder",
+    total Runs: 192,
+    wickets:6,
+    average:25,
+    rating:9.0
+},
+{
+    S_no: 7,
+    name: "Amit Mishra",
+    category: "Bowler",
+    total Runs: 19,
+    wickets:0,
+    average:19,
+    rating:7.8
+},
+{
+    S_no: 8,
+    name: "Ravi Bishnoi",
+    category: "Bowler",
+    total Runs: 6,
+    wickets:7,
+    average:"-",
+    rating:8.1
+},
+{
+    S_no: 9,
+    name: "Naveen Ul Haq",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:7,
+    average:10.3,
+    rating:9.0
+},
+{
+    S_no: 10,
+    name: "Avesh Khan",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:7,
+    average:17.3,
+    rating:8.9
+},
+{
+    S_no: 11,
+    name: "Ayush  Badhoni",
+    category: "Batsman",
+    total Runs: 66,
+    wickets:0,
+    average:22.4,
+    rating:7.2
+},
+    ]

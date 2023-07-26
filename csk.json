@@ -1,0 +1,101 @@
+[
+    {
+       S_no: 1,
+       name: "Rituraj gaikward",
+       category: "Batsman",
+       total Runs: 354,
+       wickets:0,
+       average:39.3,
+       rating:8.4
+    },
+    {
+          S_no: 2,
+          name: "Devon convay",
+          category: "Batsman",
+          total Runs: 414,
+          wickets:0,
+          average:46,
+          rating:8.7
+    },
+    {
+        S_no: 3,
+        name: "Ajinkya Rahane",
+        category: "Batsman",
+        total Runs: 244,
+        wickets:0,
+        average:37.3,
+        rating:8.1
+    },
+    {
+        S_no: 4,
+        name: "Moen Ali",
+        category: "All rounder",
+        total Runs: 107,
+        wickets:9,
+        average:20.3,
+        rating:8.0
+  },
+{
+    S_no: 5,
+    name: "Shivam Dube",
+    category: "All-Rounder",
+    total Runs: 264,
+    wickets:0,
+    average:37,
+    rating:8.9
+},
+{
+    S_no: 6,
+    name: "Ravindra Jadeja",
+    category: "All-Rounder",
+    total Runs: 211,
+    wickets:13,
+    average:25,
+    rating:9.0
+},
+{
+    S_no: 7,
+    name: "Mahendra Singh Dhoni",
+    category: "Batsman",
+    total Runs: 166,
+    wickets:0,
+    average:47.3,
+    rating:7.8
+},
+{
+    S_no: 8,
+    name: "Tushar Despande",
+    category: "Bowler",
+    total Runs: 0,
+    wickets:17,
+    average:"-",
+    rating:8.1
+},
+{
+    S_no: 9,
+    name: "Theekshana",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:7,
+    average:20.3,
+    rating:9.0
+},
+{
+    S_no: 10,
+    name: "Pathirana",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:7,
+    average:17.3,
+    rating:8.9
+},
+{
+    S_no: 11,
+    name: "Akash Singh",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:3,
+    average:22.4,
+    rating:7.2
+},
+    ]

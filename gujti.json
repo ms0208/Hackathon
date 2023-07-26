@@ -1,0 +1,101 @@
+[
+    {
+       S_no: 1,
+       name: "Shubman Gill",
+       category: "Batsman",
+       total Runs: 339,
+       wickets:0,
+       average:39.3,
+       rating:8.4
+    },
+    {
+          S_no: 2,
+          name: "Wriddiman saha",
+          category: "Batsman",
+          total Runs: 151,
+          wickets:0,
+          average:16,
+          rating:7.4
+    },
+    {
+        S_no: 3,
+        name: "Hardik Pandya",
+        category: "All rounder",
+        total Runs: 151,
+        wickets:3,
+        average:37.3,
+        rating:8.1
+    },
+    {
+        S_no: 4,
+        name: "Vijay Shankar",
+        category: "All rounder",
+        total Runs: 213,
+        wickets:0
+        average:41
+        rating:7.7
+  },
+{
+    S_no: 5,
+    name: "Abhishek Manohar",
+    category: "Batsman",
+    total Runs: 112,
+    wickets:0,
+    average:22,
+    rating:7
+},
+{
+    S_no: 6,
+    name: "David Miller",
+    category: "Batsman",
+    total Runs: 180,
+    wickets:0,
+    average:45,
+    rating:8.0
+},
+{
+    S_no: 7,
+    name: "Rahul Tewatia",
+    category: "All rounder",
+    total Runs: 63,
+    wickets:0,
+    average:63
+    rating:7.5
+},
+{
+    S_no: 8,
+    name: "Rashid Khan",
+    category: "Bowler",
+    total Runs: 15,
+    wickets:15,
+    average:15,
+    rating:9.1
+},
+{
+    S_no: 9,
+    name: "Noon Ahmad",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:8,
+    average:1,
+    rating:6.5
+},
+{
+    S_no: 10,
+    name: "Mohit Sharma",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:8,
+    average:1,
+    rating:7.0
+},
+{
+    S_no: 11,
+    name: " Mohammad Shami",
+    category: "Bowler",
+    total Runs: "-",
+    wickets:17,
+    average:2.5,
+    rating:8.5
+},
+    ]

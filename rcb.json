@@ -1,0 +1,100 @@
+[
+{
+   "S.no": 1,
+   "name": "Virat Kohli",
+   "category": "Batsman",
+   "total Runs": 364,
+   "wickets":0,
+   "average":33.5,
+   "rating":8.8
+},
+{
+      "S.no": 2,
+      "name": "Faf du Plesis",
+      "category": "Batsman",
+      "total Runs": 466,
+      "wickets":0,
+      "average":67.3,
+      "rating":9.2
+},
+{
+   "S.no": 3,
+   "name": "Dinesh Kartik",
+   "category": "wicket-keepar Batsman",
+   "total Runs": 99,
+   "wickets":0,
+   "average":12,
+   "rating":6.2
+},
+{
+   "S.no": 4,
+   "name": "Mahipal Lomror",
+   "category": "All-rounder",
+   "total Runs": 78,
+   "wickets":0,
+   "average":11,
+   "rating":6.0
+},
+{
+   "S.no": 5,
+   "name": "Shahbaz Ahmad",
+   "category": "All-rounder",
+   "total Runs": 42,
+   "wickets":3,
+   "average":18,
+   "rating":7.4
+},
+{
+   "S.no": 6,
+   "name": "Mohammad Siraj",
+   "category": "Bowler",
+   "total Runs": 6,
+   "wickets":15,
+   "average":11,
+   "rating":8.8
+},
+{
+   "S.no": 7,
+   "name": "Harshal Patel",
+   "category": "All-rounder",
+   "total Runs": 22,
+   "wickets": 8,
+   "average":16,
+   "rating":7.5
+},
+{
+   "S.no": 8,
+   "name": "Josh Hazzlewood",
+   "category": "Bowler",
+   "total Runs": 3,
+   "wickets": 4,
+   "average":2.8,
+   "rating":8.8
+},
+{
+   "S.no": 9,
+   "name": "Wahindu Hasaranga",
+   "category": "All-rounder",
+   "total Runs": 18,
+   "wickets": 7,
+   "average":9.0,
+   "rating":8.8
+},{
+   "S.no": 10,
+   "name": "Wayne Parnell",
+   "category": "Bowler",
+   "total Runs": 19,
+   "wickets":6,
+   "average":19,
+   "rating":7.6
+},
+{
+   "S.no": 11,
+   "name": "Vishal Nayak",
+   "category": "Bowler",
+   "total Runs": 19,
+   "wickets": 5,
+   "average":2.5,
+   "rating":7.0
+}
+]
